@@ -1,0 +1,2 @@
+{"latitude": "51.501444", "user_id": 2, "name": "More than 100km", "longitude": "-0.141494"}
+{"latitude": "53.338163", "user_id": 1, "name": "Less than 100km", "longitude": "-6.259075"}
